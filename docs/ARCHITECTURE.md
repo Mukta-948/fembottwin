@@ -34,4 +34,4 @@ No verified CGMacros archive, extracted schema, real trained artifact, or held-o
 
 ## Diagram export
 
-`architecture.svg` is a standalone vector diagram that can be opened in a browser or inserted into slides. It uses native SVG shapes and requires no renderer or additional package. This Markdown file preserves the Mermaid source for editing.
+The submission-ready [architecture PDF](architecture.pdf) is a readable one-page flow diagram. [architecture.svg](architecture.svg) is the standalone vector version. This Markdown file preserves the Mermaid source for editing. Both diagrams describe guarded capability; the trained-model branch is inactive because no real-data artifact is available.
