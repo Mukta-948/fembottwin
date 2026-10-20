@@ -91,7 +91,7 @@ The final PDF is a copy of the FemMetaboTwin deck identified in Downloads by its
 
 **GitHub repository:** [https://github.com/Mukta-948/fembottwin](https://github.com/Mukta-948/fembottwin)
 
-For submission, the repository must be public and every required linked asset (including this README, architecture PDF, presentation PDF, and demo video) must open without sign-in, special permissions, or private-drive access. Verify the links in a signed-out browser before submitting. Do not publish local records, credentials, restricted data, or the CGMacros raw archive.
+The repository and every current local README link were checked anonymously after publication and returned HTTP 200. The demo-video placeholder is not a published asset; when uploaded, make sure it can be viewed from its unlisted link without special permissions. Do not publish local records, credentials, restricted data, or the CGMacros raw archive.
 
 ## Project Overview and Features
 
@@ -170,4 +170,4 @@ Future work requires a verified authorized dataset, observed-schema inventory, t
 | Open-source license | MIT identified and summarized |
 | Architecture diagram PDF/PPT | PDF and SVG linked; PDF rendered and checked |
 | Final presentation PDF/PPT | FemMetaboTwin PDF linked; confirm it is the intended final deck; PPTX not supplied |
-| Public accessibility | Repository URL included; verify public visibility and signed-out asset access |
+| Public accessibility | Repository and all current local README links verified anonymously; video link pending |
