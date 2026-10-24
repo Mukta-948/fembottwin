@@ -4,21 +4,14 @@ FemMetaboTwin is a hackathon research prototype for a personalized glucose-state
 
 ## Team Details
 
-- **Team name:** [Add the actual team name]
-- **Member 1 full name:** [Add full name] | **Role:** [Add role] | **Contact:** [Add contact, if required]
-- **Member 2 full name:** [Add full name or remove if not applicable] | **Role:** [Add role] | **Contact:** [Add contact, if required]
-- **Member 3 full name:** [Add full name or remove if not applicable] | **Role:** [Add role] | **Contact:** [Add contact, if required]
-- **Member 4 full name:** [Add full name or remove if not applicable] | **Role:** [Add role] | **Contact:** [Add contact, if required]
+- **Team name:** dmukta175
+- **Member 1 full name:** Mukta Deshpande
+- **Member 2 full name:** Mumal Swami
 
-Add or remove member rows to match the actual team. No team-member information has been supplied for this repository.
+## College Information
 
-## College / Incubator Information
-
-- **College / institution:** [Confirm the actual team affiliation. Use PDPM IIITDM Jabalpur only if the team is affiliated with it; otherwise enter the correct institution.]
-- **Incubator:** [Add the incubator name, or confirm “None” / “Not applicable.”]
-- **Official team or incubator details:** [Add only if applicable and verified.]
-
-These fields are intentionally placeholders and do not assert an affiliation.
+- **College / institution:** PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (IIITDM Jabalpur)
+- **Incubator:** Not applicable.
 
 ## Project Title
 
@@ -63,9 +56,9 @@ The planned research hypothesis is that reliable cycle context might add useful 
 
 ## 15–20 Minute Demo Video
 
-**Video link:** [ADD UNLISTED YOUTUBE DEMO LINK BEFORE SUBMISSION]
+**Video link:** https://www.youtube.com/watch?v=j_n5G0XIQtg
 
-The video has not been recorded or uploaded. The detailed live walkthrough is in [the 21–22 minute demo script](docs/DEMO_SCRIPT.md); shorten it to 15–20 minutes for the submission video.
+
 
 ## Open-Source License Details
 
@@ -81,11 +74,12 @@ The PDF reflects the implemented flows and was rendered and visually checked dur
 
 ## Final Presentation (PDF / PPT)
 
-- **Final presentation PDF:** an 11-page FemMetaboTwin deck was found in Downloads under the generic filename `Untitled presentation.pdf` and copied to [docs/FemMetaboTwin-Presentation.pdf](docs/FemMetaboTwin-Presentation.pdf). Its test/build slide now reflects this verified run (20 backend tests passed; frontend production build passed). The cover's team name remains a placeholder; confirm this is the intended final deck before submission.
-- **PowerPoint:** [ADD FINAL `.pptx` HERE IF REQUIRED; no `.pptx` supplied.]
-- **Editable presentation outline:** [docs/PRESENTATION.md](docs/PRESENTATION.md) (source outline; it is not the final PDF or PPT).
+- **Final presentation PDF:** [FemMetaboTwin Presentation](docs/FemMetaboTwin-Presentation.pdf)
+- **Editable presentation outline:** [docs/PRESENTATION.md](docs/PRESENTATION.md) (source outline; not the final presentation file).
 
-The final PDF is a copy of the FemMetaboTwin deck identified in Downloads by its project-specific title and content. Review it and confirm that it is the intended final deck before submission.
+The final presentation PDF contains 11 slides and includes the verified project test/build status: 20 backend tests passed and the frontend production build passed.
+
+
 
 ## Public Repository and Asset Accessibility
 
