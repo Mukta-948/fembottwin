@@ -56,9 +56,9 @@ The planned research hypothesis is that reliable cycle context might add useful 
 
 ## 15–20 Minute Demo Video
 
-**Video link:** https://www.youtube.com/watch?v=j_n5G0XIQtg
+**Video link:** [FemMetaboTwin demo](https://www.youtube.com/watch?v=j_n5G0XIQtg)
 
-
+The video link is provided for the submission. The local [spoken recording script](docs/DEMO_VIDEO_SCRIPT.md) is a presenter guide and has not been verified as a transcript of the uploaded recording. The [demo behavior reference](docs/DEMO_BEHAVIOR_REFERENCE.md) maps controls to code paths. The [detailed demo walkthrough](docs/DEMO_SCRIPT.md) documents the software behavior and evidence boundaries.
 
 ## Open-Source License Details
 
@@ -77,15 +77,13 @@ The PDF reflects the implemented flows and was rendered and visually checked dur
 - **Final presentation PDF:** [FemMetaboTwin Presentation](docs/FemMetaboTwin-Presentation.pdf)
 - **Editable presentation outline:** [docs/PRESENTATION.md](docs/PRESENTATION.md) (source outline; not the final presentation file).
 
-The final presentation PDF contains 11 slides and includes the verified project test/build status: 20 backend tests passed and the frontend production build passed.
-
-
+The final presentation PDF is valid and contains 11 pages. No editable `.pptx` was found in the project or Downloads, so the supplied PDF is retained unchanged.
 
 ## Public Repository and Asset Accessibility
 
 **GitHub repository:** [https://github.com/Mukta-948/fembottwin](https://github.com/Mukta-948/fembottwin)
 
-The repository and every current local README link were checked anonymously after publication and returned HTTP 200. The demo-video placeholder is not a published asset; when uploaded, make sure it can be viewed from its unlisted link without special permissions. Do not publish local records, credentials, restricted data, or the CGMacros raw archive.
+The repository is public on GitHub and its `main` branch is accessible without signing in. The submission documentation is linked below. Keep local records, credentials, restricted data, and the CGMacros raw archive out of the repository.
 
 ## Project Overview and Features
 
@@ -153,15 +151,16 @@ Future work requires a verified authorized dataset, observed-schema inventory, t
 
 | Required README item | Status |
 |---|---|
-| Team details | Placeholders; team information required |
-| College / incubator | Placeholder; confirm affiliation/details |
-| Project title | Included |
-| Problem statement | Included with qualified research context and sources |
-| Healthcare use case | Included; prototype limitations stated |
-| Technical stack | Included from project manifests/source |
-| AI/ML details | Implemented paths and unavailable real-model status stated |
-| 15–20 minute demo video | Placeholder; record and upload video |
-| Open-source license | MIT identified and summarized |
-| Architecture diagram PDF/PPT | PDF and SVG linked; PDF rendered and checked |
-| Final presentation PDF/PPT | FemMetaboTwin PDF linked; confirm it is the intended final deck; PPTX not supplied |
-| Public accessibility | Repository and all current local README links verified anonymously; video link pending |
+| Team name and members | Confirmed in README from supplied team details: dmukta175; Mukta Deshpande and Mumal Swami |
+| College / incubator | Confirmed in README from supplied details; incubator not applicable |
+| Project title | Confirmed in README |
+| Problem statement | Confirmed; qualified research context and sources included |
+| Healthcare use case | Confirmed; prototype and clinical limitations stated |
+| Technical stack | Confirmed against manifests/source; custom CSS, not Tailwind |
+| AI/ML details | Confirmed: real-data model and metrics unavailable; fallback and blocked cycle research described |
+| Demo video | Submission link included above |
+| Open-source license | MIT LICENSE present; dataset terms documented separately |
+| Architecture diagram PDF/SVG | Both present; PDF valid and visually checked; SVG parses; architecture matches guarded current flows |
+| Final presentation PDF | Present and valid, 11 pages; no editable `.pptx` was found in the project or Downloads |
+| Demo documentation | Detailed walkthrough, spoken recording script, and behavior reference included |
+| Public repository | Confirmed Public on GitHub `main`; latest remote commit was checked anonymously |
